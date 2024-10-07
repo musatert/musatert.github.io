@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://musatert.github.io/sitemap.html.gz
+Sitemap: https://musatert.github.io/app/sitemap.html.gz
+Sitemap: https://musatert.github.io/assets/sitemap.html.gz
+Sitemap: https://musatert.github.io/css/sitemap.html.gz
+Sitemap: https://musatert.github.io/data/sitemap.html.gz
+Sitemap: https://musatert.github.io/includes/sitemap.html.gz
+Sitemap: https://musatert.github.io/item/sitemap.html.gz
+Sitemap: https://musatert.github.io/src/sitemap.html.gz
